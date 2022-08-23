@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AboutYou</string>
+    <string name="name">Maria Jose</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">I like you a lot, but you dont seem to like me that much. i often think that you hate, and begin to think ways i have offended you in the past \n
+    . At the same time, i cant seem to forgive you for about what you did almost 4 years ago. that wound never heal.i tried to heal but you always find me right when i
+        was about to forget you.
+        its like you cant let me go out of pure egoism, after all this time you still want me as a backup.
+        You just want to use me when you need to, you dont care about, you dont care how i feel. everytime is the same.
+        The moment i completed my purpuse you throw me away, like a tissue.\n
+        Then when you need me again, you come back as if nothing ever happened.\n
+        I should start to recocnize these patters, i often do them while dating adela..\
+        am a piece of shit.
+        ON OTHER NOTE, USE lineSpacingMultipler para aumentar el espacio entre renglones,
+        haciendo todo mas facil de leer.\n
+        Maybe in a months time, or even better, when new ryzen or intel chips arrive, i ll be a experienced kotlin developer \n
+
+    </string>
+    <string name="your_name">Whats your name budd</string>
+    <string name="done">Done</string>
+</resources>
